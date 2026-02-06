@@ -2,7 +2,7 @@
 A console based app to read basic Windows and CCM logs. It may support .evtx but its currently untested.
 The script/exe supports string and type filtering, as well as live tailing. 
 
-# To Do:
+# To Do
 Support and test .evtx formats.
 Add a script to the repo that automatically adds the .exe to PATH to make running it easier from the terminal.
 
